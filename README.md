@@ -10,8 +10,8 @@ If you like what I'm doing and would like to show your appreciation, you can alw
 
 Though it's up to you to do so, everything that I do/make will remain both free to use and fully open source.
 
-### 🔭 What I’m currently working on:
+### What I’m currently working on:
 
  - a "swarm of howling voices"-synthesizer
- - my next record (you can always [stream my music](https://songwhip.com/drosophelia)) on the platform of your choice
+ - my next record (you can always [stream my music](https://songwhip.com/drosophelia) on the platform of your choice)
  - a browser based RTS game (nothing world shocking, just to amuse myself)
