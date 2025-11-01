@@ -12,6 +12,5 @@ Though it's up to you to do so, everything that I do/make will remain both free 
 
 ### What I’m currently working on:
 
- - a "swarm of howling voices"-synthesizer
- - my next record (you can always [stream my music](https://songwhip.com/drosophelia) on the platform of your choice)
- - a browser based RTS game (nothing world shocking, just to amuse myself)
+ - a multi flavour distortion effect
+ - my next record (you can always [stream my music](https://linktr.ee/drosophelia) on the platform of your choice)
