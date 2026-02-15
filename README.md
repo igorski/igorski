@@ -2,7 +2,7 @@
 
 In my GitHub repositories, you can find most of my personal projects, be it [audio plugins](https://github.com/igorski?utf8=%E2%9C%93&tab=repositories&q=vst&sort=stargazers), web based applications or [libraries of any kind](https://github.com/igorski?tab=repositories&q=library&sort=stargazers) (for various languages/platforms). All of it for you to see and to get your grubby hands on. All code is production ready without hidden secrets and comes with (varying degrees of) documentation and test coverage. Consult the README of each repo in case you have questions, bug reports or requests. Likewise, if you see something horribly wrong, inefficient or containing a crude oversight, feel free to contribute!
 
-If you don't feel like tinkering with code, you can just go to my [website](https://www.igorski.nl) and [run the web applications](https://www.igorski.nl/apps) directly from your browser, or [download the audio plugins](https://www.igorski.nl/download) there.
+If you don't feel like tinkering with code, you can just go to my [website](https://www.igorski.nl) and [run the web applications](https://www.igorski.nl/apps) directly from your browser, or [download the audio plugins](https://www.igorski.nl/plugins) there.
 
 If you like what I'm doing and would like to show your appreciation, you can always:
 
@@ -12,5 +12,6 @@ Though it's up to you to do so, everything that I do/make will remain both free 
 
 ### What I’m currently working on:
 
- - a multi flavour distortion effect
+ - perpetually improving workflows for BitMappery and Efflux
+ - a swarm of howling voices VST synth
  - my next record (you can always [stream my music](https://linktr.ee/drosophelia) on the platform of your choice)
